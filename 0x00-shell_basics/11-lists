@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -l /etc/bin
+ls -all
+cd / ls -all
+cd /boot ls -all
