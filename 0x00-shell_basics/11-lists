@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -all cd / ls -all /boot ls -all
+ls -l -a ls -l -a .. /boot ls -all
