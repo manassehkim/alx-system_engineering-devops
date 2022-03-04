@@ -1,2 +1,2 @@
 #!/bin/bash
-if gown==guillaume chown betty hello
+if -l == guillaume chown betty hello
