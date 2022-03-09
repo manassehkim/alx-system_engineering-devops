@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | tail -8
+ls -t | head -8
