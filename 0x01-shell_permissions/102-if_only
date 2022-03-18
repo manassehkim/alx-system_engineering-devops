@@ -1,2 +1,2 @@
 #!/bin/bash
-if -l == betty chown guillaume hello
+chown betty --from=guillaume hello
